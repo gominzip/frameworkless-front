@@ -1,0 +1,19 @@
+{
+  "name": "web-fe-p2-reactcraft",
+  "version": "1.0.0",
+  "description": "부스트캠프 두번째 학습스프린트",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "gominzip",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.4.7"
+  }
+}
